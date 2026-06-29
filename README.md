@@ -99,13 +99,17 @@ Included unit tests for:
 ## Screenshots
 
 ### List Screen
-<img width="300" height="800" alt="user_list" src="https://github.com/user-attachments/assets/b7257c19-70aa-40b6-a195-bd91ff877c81" />
+
+<img width="400" height="800" alt="user_list" src="https://github.com/user-attachments/assets/41ad6d8e-a600-4926-8bf7-2d75c37065c1" />
+
 
 
 
 ### Detail Screen
 
-<img width="300" height="800" alt="user_details" src="https://github.com/user-attachments/assets/d63cc46b-54a7-4e31-a7c5-495db244563e" />
+
+<img width="400" height="800" alt="user_details" src="https://github.com/user-attachments/assets/293ec9a3-43e1-4814-a6b6-3f98e42688e8" />
+
 
 
 ---
