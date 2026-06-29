@@ -78,9 +78,11 @@ Included unit tests for:
 
 ## Assumptions
 
-* User data is fetched from a public mock API.
-* Basic UI design is implemented as per assessment requirements.
-* State-based navigation is used for simplicity.
+* User data is fetched from the provided public mock API endpoint.
+* The mock API may occasionally return inconsistent or malformed values for certain records. The application handles such cases gracefully by displaying valid available data or fallback values.
+* The UI is intentionally kept simple and clean, focusing on functionality and readability as per assessment requirements.
+* State-based navigation is used for simplicity instead of Navigation Compose.
+
 
 ---
 
@@ -111,6 +113,8 @@ Included unit tests for:
 ## Video Demo
 
 
-https://github.com/user-attachments/assets/e3c136d8-37be-458d-b328-f70fb40e319c
+https://github.com/user-attachments/assets/91570e5d-4dbb-4c6e-82e6-ed7c775d47d3
+
+
 
 
